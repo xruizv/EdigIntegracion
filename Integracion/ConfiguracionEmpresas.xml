@@ -1,0 +1,1596 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Ojo con los & ya que es un caracter de escape en archivos xml, utilizar en vezde eso &#038;-->
+<raiz>
+  <empresa>
+    <identificador>1</identificador>
+    <nombre>EMPTRESA PUEBA</nombre>
+    <rut>19</rut>
+    <direccion>XX Nº 1 </direccion>
+    <comuna>XX</comuna>
+    <ciudad>XX</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>3</identificador>
+    <nombre>AMENABAR VIVES MARTA JOSEFINA</nombre>
+    <rut>53994008</rut>
+    <direccion>MANUEL MONTT Nº 037 10</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>7</identificador>
+    <nombre>CASTELLANO BAHAMONDES JOSE IGNACIO</nombre>
+    <rut>72875567</rut>
+    <direccion>GALVARINO GALLARDO Nº 1710 </direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>8</identificador>
+    <nombre>CASTIGLIONE Y ANGULO CIA.LTDA.</nombre>
+    <rut>787412203</rut>
+    <direccion>SAN FRANCISCO Nº 1915 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>9</identificador>
+    <nombre>ASESORIAS E INVERSIONES ARTIGAS HAUSDORF LTDA.</nombre>
+    <rut>769235507</rut>
+    <direccion>CARMENCITA Nº 245 E</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>13</identificador>
+    <nombre>COMERCIAL GRAFICA LIMITADA</nombre>
+    <rut>780372109</rut>
+    <direccion>TERCERA AVENIDA Nº 1472 </direccion>
+    <comuna>San Miguel</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>15</identificador>
+    <nombre>CONTACTCHILE COMUNICACIONES S.A.</nombre>
+    <rut>995831708</rut>
+    <direccion>HUELEN Nº 222 12</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>17</identificador>
+    <nombre>DOULOS LIBRERIA,IMPORT.Y DISTRIB.LTDA.</nombre>
+    <rut>882123006</rut>
+    <direccion>EXPLORADOR FAWCETT Nº 1660 55</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>18</identificador>
+    <nombre>ESCOBAR DIAZ CLEMENTINA</nombre>
+    <rut>46869257</rut>
+    <direccion>PLACILLA Nº 029 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>19</identificador>
+    <nombre>GALVEZ LEON HECTOR</nombre>
+    <rut>41817399</rut>
+    <direccion>SEMINARIO Nº 636 </direccion>
+    <comuna>Ñuñoa</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>27</identificador>
+    <nombre>MORENO GONGORA JOSE GREGORIO</nombre>
+    <rut>50203271</rut>
+    <direccion>VIA REGINA Nº 6594 </direccion>
+    <comuna>La Reina</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>29</identificador>
+    <nombre>MUÑOZ VALENZUELA LUIS CARLOS</nombre>
+    <rut>46699211</rut>
+    <direccion>LUIS CRUZ MARTINEZ Nº 4487 M-2</direccion>
+    <comuna>Estación Central</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>30</identificador>
+    <nombre>MY MELODY KINDERGARTEN SCHOOL S.A.</nombre>
+    <rut>946410004</rut>
+    <direccion>AV.CRISTOBAL COLON Nº 5855 </direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>31</identificador>
+    <nombre>NAVARRETE ROJAS LUIS ALBERTO</nombre>
+    <rut>79384208</rut>
+    <direccion>PAGANINI Nº 236 </direccion>
+    <comuna>San Joaquin</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>32</identificador>
+    <nombre>NEUMARKET LIMITADA</nombre>
+    <rut>784513904</rut>
+    <direccion>10 DE JULIO Nº 463 </direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>36</identificador>
+    <nombre>RIVEROS SOTO BLANCA ANGELICA</nombre>
+    <rut>62142251</rut>
+    <direccion>AV.ESPAÑA Nº 665 </direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>37</identificador>
+    <nombre>SALINAS PEZOA LEONTINA GLADYS</nombre>
+    <rut>68530032</rut>
+    <direccion>LUIS CRUZ MARTINEZ Nº 4487 M-1</direccion>
+    <comuna>Estacion Central</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>40</identificador>
+    <nombre>SERVICIOS MEDICOS NUTRICION CLINICA MANQUEHUE LTDA</nombre>
+    <rut>78845550K</rut>
+    <direccion>AV. PRESIDENTE KENNEDY Nº 5757 707</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>43</identificador>
+    <nombre>TABILO ALFARO NOE DEL TRANSITO</nombre>
+    <rut>62894121</rut>
+    <direccion>LUIS CRUZ MARTINEZ Nº 4459 </direccion>
+    <comuna>Estacion Central</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>45</identificador>
+    <nombre>RAMIREZ MARTINEZ RODRIGO</nombre>
+    <rut>50396460</rut>
+    <direccion>ECHEÑIQUE Nº 8540 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>54</identificador>
+    <nombre>DIDIER VALDES CARLOS PATRICIO</nombre>
+    <rut>69424244</rut>
+    <direccion>AV.VITACURA Nº 6195 115</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>55</identificador>
+    <nombre>TRASNPORTES LILA MAR LTDA.</nombre>
+    <rut>784628604</rut>
+    <direccion>CATEDRAL Nº 4387 </direccion>
+    <comuna>Quinta Normal</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>59</identificador>
+    <nombre>SOC.ASISTENCIA QUIRURGICA GINECOLOGIA LTDA.</nombre>
+    <rut>784257207</rut>
+    <direccion>CUARTO CENTENARIO Nº 1015 </direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>60</identificador>
+    <nombre>CONSULTORES EN ING.Y GESTION ESTRATEGICA S.A.</nombre>
+    <rut>968335707</rut>
+    <direccion>EL ENCUENTRO Nº 2232 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>62</identificador>
+    <nombre>CORP.NAC.ASIST.INTEGRAL DEFICIENTES MENTALES</nombre>
+    <rut>743248007</rut>
+    <direccion>CANADA Nº 9428 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>63</identificador>
+    <nombre>ROJAS GRIBBELL ROSSANA CLAUDIA</nombre>
+    <rut>107002626</rut>
+    <direccion>CLORINDA WILSHAW Nº 497 </direccion>
+    <comuna>Ñuñoa</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>65</identificador>
+    <nombre>PEIRANO RAMIREZ RICARDO</nombre>
+    <rut>91788861</rut>
+    <direccion>GENERAL HOLLEY Nº 2381 1107</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>67</identificador>
+    <nombre>SOCIEDAD MEDICA VERONICA HEVIA LIMITADA</nombre>
+    <rut>772504608</rut>
+    <direccion>CAMINO EL ALBA Nº 8940 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>69</identificador>
+    <nombre>SOC.OFTALMOLOGICA MELLADO Y CIA.LTDA.</nombre>
+    <rut>781977403</rut>
+    <direccion>ESTADO Nº 215 504</direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>73</identificador>
+    <nombre>MAS MARKETING SERVICIOS PUBLICITARIOS LTDA</nombre>
+    <rut>784556603</rut>
+    <direccion>EMBAJADOR DOUSSINAGUE Nº 1762 1</direccion>
+    <comuna>Vitacura</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>79</identificador>
+    <nombre>FABRICACIONES LABRA LIMITADA</nombre>
+    <rut>782784404</rut>
+    <direccion>ANTILLANCA Nº 481 </direccion>
+    <comuna>Quilicura</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>80</identificador>
+    <nombre>CLINICA OTORRINOLOGIA DR.JORGE CARO LETELIER LTDA</nombre>
+    <rut>773626006</rut>
+    <direccion>GENERAL HOLLEY Nº 2381 906</direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>81</identificador>
+    <nombre>DISTRIBUIDORA DIPENA LTDA.</nombre>
+    <rut>796951907</rut>
+    <direccion>SIMON BOLIVAR Nº 7018 </direccion>
+    <comuna>La Reina</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>84</identificador>
+    <nombre>INMOBIL.E INVERS.BRISAS DEL MAIPO S.A.</nombre>
+    <rut>969272709</rut>
+    <direccion>CAMILO MORI Nº 7599 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>85</identificador>
+    <nombre>PREST.DE SERV.DR.VICTOR ORTUVIA LTDA.</nombre>
+    <rut>773317402</rut>
+    <direccion>AMERICO VESPUCIO SUR Nº 1052 1201</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>88</identificador>
+    <nombre>INGENIERIA,GESTION Y SOFTWARE LIMITADA</nombre>
+    <rut>773619301</rut>
+    <direccion>DIAGONAL ORIENTE Nº 1376 </direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>89</identificador>
+    <nombre>BBR SERVICIOS LIMITADA</nombre>
+    <rut>775756500</rut>
+    <direccion>LUIS THAYER OJEDA Nº 1145 </direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>94</identificador>
+    <nombre>G.ARAYA SERVICIOS MEDICOS S.A.</nombre>
+    <rut>967031704</rut>
+    <direccion>SANTA MARIA Nº 1810 </direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>98</identificador>
+    <nombre>DECORACIONES CARMEN VERA J.Y CIA.LTDA.</nombre>
+    <rut>79515180K</rut>
+    <direccion>EMBAJADOR DOUSSIGNE Nº 1767 14</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>104</identificador>
+    <nombre>AVALOS CERDA LUIS ANTONIO</nombre>
+    <rut>50437280</rut>
+    <direccion>PUERTA DE VERA Nº 892 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>111</identificador>
+    <nombre>ALCE PRODUCCIONES S.A.</nombre>
+    <rut>773697302</rut>
+    <direccion>MEXICO Nº 933 </direccion>
+    <comuna>Recoleta</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>112</identificador>
+    <nombre>PAVEZ CORNEJO JOSE EDUARDO</nombre>
+    <rut>57521767</rut>
+    <direccion>MONSEÑOR EDWARDS Nº 1153 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>113</identificador>
+    <nombre>SOC.MEDICA-GINECO OBSTETRICA LTDA.</nombre>
+    <rut>786257905</rut>
+    <direccion>PARQUE LOS CASTAÑOS Nº 1710 C-23</direccion>
+    <comuna>Lo Barnechea</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>114</identificador>
+    <nombre>VILLEGAS CANQUIL JORGE</nombre>
+    <rut>5187868K</rut>
+    <direccion>MARCHANT PEREIRA Nº 313 101</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>115</identificador>
+    <nombre>PARDO TELIAS ALBERTO</nombre>
+    <rut>34007233</rut>
+    <direccion>AV.CHENA Nº 1200 </direccion>
+    <comuna>SAN BERNARDO</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>117</identificador>
+    <nombre>SERVICIOS PSICOLOGICOS Y COMUNICACIONALES LTDA.</nombre>
+    <rut>772002602</rut>
+    <direccion>NAPOLEON Nº 3565 612</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>118</identificador>
+    <nombre>SEDAN SANTILLI Y CIA. LTDA.</nombre>
+    <rut>783366509</rut>
+    <direccion>CARRETERA GRAL. SAN MARTIN Nº 3256 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>119</identificador>
+    <nombre>SANTILLI ESCAFF MARIANELLA</nombre>
+    <rut>44661942</rut>
+    <direccion>ESMERALDA Nº 676 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>120</identificador>
+    <nombre>SEDAN SANTILLI NACIF IVAN</nombre>
+    <rut>79697133</rut>
+    <direccion>ESMERALDA Nº 339 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>121</identificador>
+    <nombre>SEDAN E HIJO LTDA.</nombre>
+    <rut>886884001</rut>
+    <direccion>ESMERALDA Nº 429 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>122</identificador>
+    <nombre>TRANSPORTES ESMERALDA LTDA.</nombre>
+    <rut>797815705</rut>
+    <direccion>CARRETERA GRAL. SAN MARTIN Nº S/N </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>123</identificador>
+    <nombre>FLOTA COLINA S.A.</nombre>
+    <rut>796292709</rut>
+    <direccion>COQUIMBO Nº 108 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>124</identificador>
+    <nombre>INVERSIONES COLINA S.A.</nombre>
+    <rut>965204709</rut>
+    <direccion>ESMERALDA Nº 676 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>128</identificador>
+    <nombre>COMUNICACIONES Y CAPACITACION LIMITADA</nombre>
+    <rut>789570108</rut>
+    <direccion>ALEJANDRO FLEMING Nº 9840 J-3</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>131</identificador>
+    <nombre>ANACONDA PROYECTOS LTDA.</nombre>
+    <rut>786058805</rut>
+    <direccion>TENIENTE COMPTON Nº 350 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>140</identificador>
+    <nombre>ARACELI MEDEL E HIJO LTDA.</nombre>
+    <rut>771757405</rut>
+    <direccion>AV.TABANCURA Nº 1515 102</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>141</identificador>
+    <nombre>ASES.PREST. MEDICAS SANCHEZ Y MEDEL LTDA.</nombre>
+    <rut>786148901</rut>
+    <direccion>JUAN DE ESCARAY Nº 6979 </direccion>
+    <comuna>Vitacura</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>142</identificador>
+    <nombre>BBR DISTRIBUCION Y CONSULTORIA LTDA.</nombre>
+    <rut>788241801</rut>
+    <direccion>ENRIQUE FOSTER SUR Nº 39 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>143</identificador>
+    <nombre>SEPULVEDA TRIVIÑO GILDA DE LOURDE</nombre>
+    <rut>63412899</rut>
+    <direccion>CATEDRAL Nº 4387 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>144</identificador>
+    <nombre>SERVICIOS FELLAY Y AMENABAR LIMITADA</nombre>
+    <rut>789115001</rut>
+    <direccion>GERONIMO DE ALDERETE Nº 1211 </direccion>
+    <comuna>Vitacura</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>145</identificador>
+    <nombre>CONSTRUCTORA E INMOBILIARIA C.V.P. LTDA.</nombre>
+    <rut>770867304</rut>
+    <direccion>CARMENCITA Nº 0245 E</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>165</identificador>
+    <nombre>VILLARROEL CASTILLO MAURICIO</nombre>
+    <rut>68338352</rut>
+    <direccion>SEBASTIAN ELCANO Nº 7988 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>171</identificador>
+    <nombre>ASESORIAS Y CONSULT.EN INGENIERIA LTDA.</nombre>
+    <rut>778739801</rut>
+    <direccion>DIAGONAL ORIENTE Nº 1376 </direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>177</identificador>
+    <nombre>SOC.MEDICA DOCTOR GINO RAVERA Y CIA LTDA.</nombre>
+    <rut>770345006</rut>
+    <direccion>AV. APOQUINDO Nº 6314 904</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>178</identificador>
+    <nombre>FAB. DE PERFILES TUBULARES DE ACERO LTDA.</nombre>
+    <rut>835846008</rut>
+    <direccion>BASCUÑAN GUERRERO Nº 921 </direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>180</identificador>
+    <nombre>CONSTRUCTORA P Y S LTDA.</nombre>
+    <rut>778520702</rut>
+    <direccion>Av. Nueva Providencia Nº 2155 603</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>181</identificador>
+    <nombre>SOC.MEDICA CIRUGIA PLASTICA REPAR,Y ESTETICA LTDA</nombre>
+    <rut>760033103</rut>
+    <direccion>MARCHANT PEREIRA Nº 313 101</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>191</identificador>
+    <nombre>CASTELLANO BAHAMONDES JOSE</nombre>
+    <rut>72875567</rut>
+    <direccion>FUNDO  ESTERO Nº 7409 S/N</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>194</identificador>
+    <nombre>PIZARRO CAM E IBAÑEZ CIA. LTDA.</nombre>
+    <rut>781635103</rut>
+    <direccion>SALVADOR Nº 95 510</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>195</identificador>
+    <nombre>MUÑOZ MONTALDI JEANNETTE ALEJANDRA</nombre>
+    <rut>71080110</rut>
+    <direccion>PASAJE LAS VEGAS Nº 3180 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>196</identificador>
+    <nombre>RAFAELI Y PANTIN LIMITADA</nombre>
+    <rut>779014800</rut>
+    <direccion>ENRIQUE FOSTER SUR Nº 39 P.6</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>198</identificador>
+    <nombre>ALEX BOWEN CARRANZA LIMITADA</nombre>
+    <rut>77731470K</rut>
+    <direccion>AVDA GENERAL BLANCHE Nº 9524 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>199</identificador>
+    <nombre>BROWNE Y DE FRUTOS ARQUITECTOS LIMITADA</nombre>
+    <rut>760425400</rut>
+    <direccion>LOS CONQUISTADORES Nº 2251 11</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>202</identificador>
+    <nombre>TRANSPORTES COLINA LIMITADA</nombre>
+    <rut>760457604</rut>
+    <direccion>ESMERALDA Nº 676 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>203</identificador>
+    <nombre>DIAZ SALAZAR JORGE ANTONIO</nombre>
+    <rut>79391298</rut>
+    <direccion>PASAJE PADRE JUAN JAQUE Nº 3347 </direccion>
+    <comuna>Puente Alto</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>204</identificador>
+    <nombre>FERNANDEZ DEPETRIS MATIAS JOAQUIN</nombre>
+    <rut>8070223K</rut>
+    <direccion>ECHEÑIQUE Nº 8901 C</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>205</identificador>
+    <nombre>CONSTRUCT.E INMOB.C V P S.A.</nombre>
+    <rut>995129701</rut>
+    <direccion>CARMENCITA Nº 245 E</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>206</identificador>
+    <nombre>MUTIS VENEGAS RAFAEL EDUARDO</nombre>
+    <rut>75419368</rut>
+    <direccion>PASAJE PONIENTE Nº 863 </direccion>
+    <comuna>Estación Central</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>209</identificador>
+    <nombre>SERVICIOS ONCOLOGICOS Y DE SALUD LIMITADA</nombre>
+    <rut>761939807</rut>
+    <direccion>AV.RECOLETA Nº 464 </direccion>
+    <comuna>Recoleta</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>213</identificador>
+    <nombre>LATORRE AGUAYO DAGOBERTO</nombre>
+    <rut>39634201</rut>
+    <direccion>AHUMADA Nº 312 </direccion>
+    <comuna>SANTIAGO</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>215</identificador>
+    <nombre>SOCIEDAD AGRICOLA DOÑA BERTA LIMITADA</nombre>
+    <rut>762545403</rut>
+    <direccion>PARCELA Nº 54 </direccion>
+    <comuna>Las Cabras</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>217</identificador>
+    <nombre>P Y S INGENIEROS ASOC. LTDA.</nombre>
+    <rut>760275905</rut>
+    <direccion>AVDA.NUEVA PROVIDENCIA Nº 2155 603</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>220</identificador>
+    <nombre>SOCIEDAD DE TRANSPOTES AZUL LTDA.</nombre>
+    <rut>763181308</rut>
+    <direccion>CARMENCITA Nº 245 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>222</identificador>
+    <nombre>COMERCIAL AMEDOPH CHILE LIMITADA</nombre>
+    <rut>763100901</rut>
+    <direccion>AV.SANTA MARIA Nº 2670 307</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>223</identificador>
+    <nombre>SOC. DE CIRUGIA OCULAR VALENZUELA LTDA.</nombre>
+    <rut>787257305</rut>
+    <direccion>PEREZ VALENZUELA Nº 1098 35</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>228</identificador>
+    <nombre>INGENIERIA, ARQUITECTURA Y CONSTRUCCION LTDA.</nombre>
+    <rut>795133607</rut>
+    <direccion>AV.PADRE HURTADO Nº 1395 </direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>229</identificador>
+    <nombre>SOC. DE INVERSIONES Y RENTAS TRIBAÑEZ LTDA.</nombre>
+    <rut>782331701</rut>
+    <direccion>LA CAPITANIA Nº 90 </direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>231</identificador>
+    <nombre>EMPRESA DE TRANSPORTES P Y K LTDA.</nombre>
+    <rut>771739407</rut>
+    <direccion>LA CAPITANIA Nº 90 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>233</identificador>
+    <nombre>CAPACITACION Y CONSULTORIAS EN GESTION HOLISTICA</nombre>
+    <rut>763125602</rut>
+    <direccion>CALLAO Nº 3506 2-A</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>234</identificador>
+    <nombre>CENTRO RECUPERACION SANTA RAFAELA LTDA.</nombre>
+    <rut>787579604</rut>
+    <direccion>SEMINARIO Nº 580 </direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>235</identificador>
+    <nombre>MUEBLES Y DISEÑO VIELCORP LIMITADA</nombre>
+    <rut>765944708</rut>
+    <direccion>ARAUCANIA Nº 1557 </direccion>
+    <comuna>Cerro Navia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>240</identificador>
+    <nombre>JOSE CASTELLANO Y CIA. LIMITDA</nombre>
+    <rut>764502302</rut>
+    <direccion>PETRARCA Nº 214 </direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>253</identificador>
+    <nombre>INOSTROZA LARA JULIO BERNARDO</nombre>
+    <rut>121236184</rut>
+    <direccion>AV.CERRILLOS Nº 4030 592-</direccion>
+    <comuna>Pedro Aguirre Cerda</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>260</identificador>
+    <nombre>CONFECCIONES DE VESTUARIO SPIN LTDA</nombre>
+    <rut>785564308</rut>
+    <direccion>ZAÑARTU Nº 1287 </direccion>
+    <comuna>Ñuñoa</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>261</identificador>
+    <nombre>GRUPO CONSULTOR &#038; FINANCIERO SOCIEDAD LIMITADA</nombre>
+    <rut>769543406</rut>
+    <direccion>MONSEÑOR EDWARDS Nº 1153 </direccion>
+    <comuna>La Reina</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>263</identificador>
+    <nombre>SOCIEDAD COMERCIAL REINALTER LTDA.</nombre>
+    <rut>798404601</rut>
+    <direccion>MARURI Nº 920 </direccion>
+    <comuna>Independencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>265</identificador>
+    <nombre>SOC. INMOBILIARIA MIRASOL Y CIA. LTDA</nombre>
+    <rut>799320304</rut>
+    <direccion>SANTA ADELA Nº 0699 </direccion>
+    <comuna>Recoleta</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>268</identificador>
+    <nombre>PEDRALS  RECART   Y  CIA.   LTDA.</nombre>
+    <rut>768168105</rut>
+    <direccion>APOQUINDO Nº 6410 909</direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>271</identificador>
+    <nombre>LEONARDO ARELLANO HAMELIN Y CIA. LTDA.</nombre>
+    <rut>781074608</rut>
+    <direccion>AV. SALVADOR Nº 130 </direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>272</identificador>
+    <nombre>SOCIEDAD DE INVERSIONES MANTAGUA LTDA.</nombre>
+    <rut>788077505</rut>
+    <direccion>VIA REGINA Nº 6840 </direccion>
+    <comuna>La Reina</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>274</identificador>
+    <nombre>ARAYA CERECEDA SOCIEDAD DE INVERSIONES LIMITADA</nombre>
+    <rut>760396818</rut>
+    <direccion>LUIS THAYER OJEDA Nº 166 305</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>276</identificador>
+    <nombre>VALENTE IMPRESORES LTDA.</nombre>
+    <rut>895042005</rut>
+    <direccion>LIRA Nº 1242 </direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>277</identificador>
+    <nombre>IMPRENTA INDUSTRIAL Y CIA. LTDA.</nombre>
+    <rut>804802002</rut>
+    <direccion>LIRA Nº 1242 </direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>278</identificador>
+    <nombre>HERNANDEZ E HIDALGO LTDA.</nombre>
+    <rut>774496904</rut>
+    <direccion>MARDOQUEO FERNANDEZ Nº 128 501</direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>279</identificador>
+    <nombre>TRANSPORTES BEDOIA LIMITADA</nombre>
+    <rut>76520500K</rut>
+    <direccion>LIRA Nº 1232 </direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>280</identificador>
+    <nombre>DIEGO H.ROJAS PIZARRO AGRICOLA INMOB.E INVERS.EIRL</nombre>
+    <rut>520012079</rut>
+    <direccion>CAMINO CARAMPANGUE Nº 1270 A</direccion>
+    <comuna>TALAGANTE</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>283</identificador>
+    <nombre>PATRICIO CUEVAS N. Y COMPAÑIA LIMITADA</nombre>
+    <rut>767211007</rut>
+    <direccion>MONSEÑOR EDWARDS Nº 1638 1-B</direccion>
+    <comuna>La Reina</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>286</identificador>
+    <nombre>INVERSIONES PRIETO Y COMPAÑIA LIMITADA</nombre>
+    <rut>779408906</rut>
+    <direccion>AMERICO VESPUCIO SUR Nº 952 12</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>289</identificador>
+    <nombre>SIST. DE CALIDAD Y TECN. DE INFORMACION Y COM.LTDA</nombre>
+    <rut>765030005</rut>
+    <direccion>APOQUINDO Nº 4658 12</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>290</identificador>
+    <nombre>PRODUCTOS QUIMICOS NOVAKEM LTDA.</nombre>
+    <rut>788035209</rut>
+    <direccion>PROVIDENCIA Nº 1443 61</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>291</identificador>
+    <nombre>NOVAKEM CAPACITACION LTDA.</nombre>
+    <rut>766019900</rut>
+    <direccion>PROVIDENCIA Nº 1443 61</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>292</identificador>
+    <nombre>SERVICIOS INTEGRALES DE MACOTAS LTDA.</nombre>
+    <rut>760397857</rut>
+    <direccion>SIMON BOLIVAR Nº 4510 </direccion>
+    <comuna>Ñuñoa</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>293</identificador>
+    <nombre>ID  S.A.</nombre>
+    <rut>760846244</rut>
+    <direccion>VILLASECA Nº 21 805</direccion>
+    <comuna>Ñuñoa</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>294</identificador>
+    <nombre>SCOREPLAN INTELIGENCIA DE NEGOCIOS LIMITADA</nombre>
+    <rut>760516325</rut>
+    <direccion>AUGUSTO LEGUIA NORTE Nº 100 610</direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>295</identificador>
+    <nombre>FURSYS CHILE S.A.</nombre>
+    <rut>760843946</rut>
+    <direccion>SANTA ADELA Nº 0699 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>296</identificador>
+    <nombre>CASTELLARO SHERRINGTON SERGIO</nombre>
+    <rut>69013228</rut>
+    <direccion>CATEDRAL Nº 4387 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>299</identificador>
+    <nombre>LARREDONDA Y GONZALEZ  ABOGADOS LTDA.</nombre>
+    <rut>760630349</rut>
+    <direccion>ESTADO Nº 235 1203</direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>300</identificador>
+    <nombre>COMERCIAL ARFANGO CHILE S.A.</nombre>
+    <rut>965214208</rut>
+    <direccion>AV. KENNEDY Nº 9001 </direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>301</identificador>
+    <nombre>ZAPPA CALZADO S.A.</nombre>
+    <rut>965214100</rut>
+    <direccion>AV. LAS ESTERAS NORTE Nº 2401 </direccion>
+    <comuna>Quilicura</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>303</identificador>
+    <nombre>EDITORIAL AMANUTA LIMITADA</nombre>
+    <rut>777825909</rut>
+    <direccion>ISIDORA GOYENECHEA Nº 3621 1901</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>304</identificador>
+    <nombre>CONSTRUCTORA E INVERSIONES SANTA FE LTDA.</nombre>
+    <rut>760965561</rut>
+    <direccion>PARCELA Nº 1 </direccion>
+    <comuna>ISLA DE MAIPO</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>305</identificador>
+    <nombre>EMPRESA DE TRANSPORTES PADRE HURTADO LIMITADA</nombre>
+    <rut>760961167</rut>
+    <direccion>LA CAPITANIA Nº 90 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>306</identificador>
+    <nombre>DOCTOR EDUARDO MARIN Y CIA.LIMIATADA CONSULTORES</nombre>
+    <rut>772649908</rut>
+    <direccion>FLANDES Nº 1051 201</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>309</identificador>
+    <nombre>COMERCIAL ADAPTOR CHILE LIMITADA</nombre>
+    <rut>779541401</rut>
+    <direccion>AV. VITACURA Nº 2909 216</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>310</identificador>
+    <nombre>FERNANDO IBAÑEZ SERVICIOS MEDICOS LTDA.</nombre>
+    <rut>771653006</rut>
+    <direccion>PAUL HARRIS Nº 9649 </direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>311</identificador>
+    <nombre>PROVOCA ACCION  S.A.</nombre>
+    <rut>761213350</rut>
+    <direccion>CAMINO LOS CERCOS Nº 4122 </direccion>
+    <comuna>Peñalolen</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>312</identificador>
+    <nombre>COMERCIAL MI TRIBU LTDA.</nombre>
+    <rut>76105161K</rut>
+    <direccion>TOBALABA Nº 12175 201</direccion>
+    <comuna>PEÑALOLEN</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>313</identificador>
+    <nombre>EMPRESA CONSTRUCTORA NAVARRETE Y NAVARRETE LTDA.</nombre>
+    <rut>761334190</rut>
+    <direccion>PAGANINI Nº 236 </direccion>
+    <comuna>SAN JOAQUIN</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>314</identificador>
+    <nombre>VASQUEZ  MARIA CRISTINA</nombre>
+    <rut>55560722</rut>
+    <direccion>PARCELA Nº 0509 </direccion>
+    <comuna>Paine</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>315</identificador>
+    <nombre>SOCIEDAD PRESTADORA DE SERVICIOS BRITO SPA</nombre>
+    <rut>761008897</rut>
+    <direccion>ARTURO PRAT Nº 1670 </direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>316</identificador>
+    <nombre>CONSTRUCCIONES Y PROYECTOS TERRA URBANA LTDA.</nombre>
+    <rut>76132344K</rut>
+    <direccion>SAN VICENTE FERRER Nº 2470 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>317</identificador>
+    <nombre>AGRICOLA DOÑA DOMINGA LTDA.</nombre>
+    <rut>769483101</rut>
+    <direccion>ESTANISLAO RECABARREN Nº 2330 </direccion>
+    <comuna>Vitacura</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>318</identificador>
+    <nombre>FERNANDEZ CORREDORES DE PROPIEDADES LTDA.</nombre>
+    <rut>764955706</rut>
+    <direccion>JUAN XXIII Nº 6405 </direccion>
+    <comuna>Vitacura</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>319</identificador>
+    <nombre>SOCIEDAD PEDIAMED LTDA.</nombre>
+    <rut>775698209</rut>
+    <direccion>LORELEY Nº 1058 </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>321</identificador>
+    <nombre>LAS HOJAS DE ARBORETUM  S.A.</nombre>
+    <rut>995591804</rut>
+    <direccion>LOS ALGARROBOS Nº 2228 </direccion>
+    <comuna>Santiago</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>322</identificador>
+    <nombre>SOCIEDAD METALURGICA LUXOR LTDA.</nombre>
+    <rut>760289663</rut>
+    <direccion>ANTILLANCA SUR Nº 560 </direccion>
+    <comuna>PUDAHUEL</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>323</identificador>
+    <nombre>SOC. INVERSIONES FINANCIERAS Y TECNOLOGICAS S.A.</nombre>
+    <rut>797875201</rut>
+    <direccion>LOS CONQUISTADORES Nº 1958 </direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>325</identificador>
+    <nombre>ROPAS Y ACCESORIOS LE BOUTIQUE AG LTDA.</nombre>
+    <rut>761618156</rut>
+    <direccion>BADAJOZ Nº 100 903-</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>326</identificador>
+    <nombre>SOCIEDAD EDUCACIONAL INVESTMENTS SCHOOL S.A.</nombre>
+    <rut>761832352</rut>
+    <direccion>LOS CONQUISTADORES Nº 1958 </direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>327</identificador>
+    <nombre>FERIS, PARRA &#038; CIA. LTDA.</nombre>
+    <rut>760662143</rut>
+    <direccion>AV. FRANCISCO BILBAO Nº 4144 C</direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>328</identificador>
+    <nombre>INGENIERIA Y PROYECTOS METALURGICOS IKARI LTDA</nombre>
+    <rut>761991159</rut>
+    <direccion>AV. FERMIN VIVACETA Nº 2598 C</direccion>
+    <comuna>Independencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>329</identificador>
+    <nombre>PAVEZ MIRANDA CLAUDIA ALEJANDRA</nombre>
+    <rut>117403890</rut>
+    <direccion>AV. ITALIA Nº 1449 LC 5</direccion>
+    <comuna>Providencia</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>330</identificador>
+    <nombre>SOCIEDAD PROFESIONAL KREISBERG LIMITADA</nombre>
+    <rut>762596008</rut>
+    <direccion>AV. LA DEHESA Nº 1201 404</direccion>
+    <comuna>Lo Barnechea</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>331</identificador>
+    <nombre>ROMERO Y GUARDA LIMITADA</nombre>
+    <rut>761283316</rut>
+    <direccion>GENERAL MANUEL BAQUEDANO Nº S/N </direccion>
+    <comuna></comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>332</identificador>
+    <nombre>ULLRICH BUGGE ROSEMARIE INGRID</nombre>
+    <rut>8432633K</rut>
+    <direccion>JULIO PRADO Nº  </direccion>
+    <comuna>QUILLOTA</comuna>
+    <ciudad>QUILLOTA</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>333</identificador>
+    <nombre>ORELLANA ANGULO LUIS RUBEN</nombre>
+    <rut>48562701</rut>
+    <direccion>AVENIDA AMERICO VESPUCIO Nº 2022 </direccion>
+    <comuna>San Ramon</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>334</identificador>
+    <nombre>INVERSIONES Y RENTAS NUEVA TRIBAÑEZ LTDA.</nombre>
+    <rut>76079273K</rut>
+    <direccion>AV. PADRE HURTADO Nº 1395 </direccion>
+    <comuna>Las Condes</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>336</identificador>
+    <nombre>VASQUEZ Y FUENZALIDA LIMITADA</nombre>
+    <rut>762423847</rut>
+    <direccion>FEDERICO ERRAZURIZ Nº 1078 </direccion>
+    <comuna>Pudahuel</comuna>
+    <ciudad>Santiago</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>337</identificador>
+    <nombre>TRANSPORTES SPT LIMITADA</nombre>
+    <rut>762591790</rut>
+    <direccion>SANTA ADELA Nº 0699 </direccion>
+    <comuna>RECOLETA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>338</identificador>
+    <nombre>EBENSPERGER PESCE LIMIATDA</nombre>
+    <rut>772012306</rut>
+    <direccion>ALTAZOR Nº 951 </direccion>
+    <comuna>LA REINA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>339</identificador>
+    <nombre>HD INVERSIONES LIMIATDA</nombre>
+    <rut>776446009</rut>
+    <direccion>CAMINO LOS CERROS Nº 4122 </direccion>
+    <comuna>PEÑALOLEN</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>340</identificador>
+    <nombre>LANTEK CHILE SPA</nombre>
+    <rut>762522977</rut>
+    <direccion>ISABEL LA CATOLICA Nº 4861 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>341</identificador>
+    <nombre>INGENIERIA Y CONSTRUCCION NEHUEN LTDA.</nombre>
+    <rut>778901005</rut>
+    <direccion>ROJAS MAGALLANES Nº 4129 </direccion>
+    <comuna>LA FLORIDA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>342</identificador>
+    <nombre>WALBAUM REPRESENTACIONES LIMITADA</nombre>
+    <rut>875562002</rut>
+    <direccion>PEREZ VALENZUELA Nº 1520 304</direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>343</identificador>
+    <nombre>EQUIPAMIENTO COCINAS INDUSTRIALES A GAS ECIGAS LTD</nombre>
+    <rut>762440865</rut>
+    <direccion>AMERICO VESPUCIO Nº 2022 </direccion>
+    <comuna>SAN RAMON</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>344</identificador>
+    <nombre>LIVIA VARGA Y CIA. LTDA.</nombre>
+    <rut>762662949</rut>
+    <direccion>AV. RICARDO MATTE PEREZ Nº 154 </direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>345</identificador>
+    <nombre>SERVICIOS GASTRONOMICOS CUINART LTDA.</nombre>
+    <rut>762826992</rut>
+    <direccion>GUADARRAMA Nº 1207 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>346</identificador>
+    <nombre>CCO  S.A.</nombre>
+    <rut>767667302</rut>
+    <direccion>ESTORIL Nº 120 814</direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>347</identificador>
+    <nombre>PULSAR CONSULTORES SPA</nombre>
+    <rut>761033638</rut>
+    <direccion>LOS MILITARES Nº 5620 1011</direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>348</identificador>
+    <nombre>ANDREA CHICUREL Y COMPAÑIA LTDA.</nombre>
+    <rut>760053481</rut>
+    <direccion>ALONSO DE CORDOVA Nº 5151 102</direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>349</identificador>
+    <nombre>SOCIEDAD DE TRANSPORTE ASAHI LIMITADA</nombre>
+    <rut>762693232</rut>
+    <direccion>AV.AMERICO VESPUCIO Nº 2022 </direccion>
+    <comuna>SAN RAMON</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>350</identificador>
+    <nombre>CONSULTORA HABITACIONAL D Y N LIMITADA</nombre>
+    <rut>761386034</rut>
+    <direccion>AHUMADA Nº 131 1013</direccion>
+    <comuna>SANTIAGO</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>351</identificador>
+    <nombre>IMAGEMAKER S.A.</nombre>
+    <rut>773724601</rut>
+    <direccion>AV. LA CONCEPCIÓN Nº 141 601</direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>352</identificador>
+    <nombre>IMAGEMAKER IT S.A.</nombre>
+    <rut>760100889</rut>
+    <direccion>AV. LA CONCEPCIÓN Nº 141 601</direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>353</identificador>
+    <nombre>ALDO LAGOS MUÑOZ</nombre>
+    <rut>71091260</rut>
+    <direccion>ORREGO ARRIBA PARCEL Nº 22 </direccion>
+    <comuna>CASABLANCA</comuna>
+    <ciudad>CASABLANCA</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>354</identificador>
+    <nombre>ASESORIAS E INVERSIONES LARREDONDA Y ALCAYAGA LTDA</nombre>
+    <rut>773927804</rut>
+    <direccion>PAUL HARRIS Nº 9570 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>355</identificador>
+    <nombre>ASESORIAS E INVERSIONES SANTA SOLEDAD LTDA.</nombre>
+    <rut>760485845</rut>
+    <direccion>EL ALMENDRAL Nº 441 </direccion>
+    <comuna>LO BARNECHEA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>356</identificador>
+    <nombre>DUUIN  SPA</nombre>
+    <rut>762614294</rut>
+    <direccion>VILLASECA Nº 21 805</direccion>
+    <comuna>ÑUÑOA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>357</identificador>
+    <nombre>N&#038;CO SPA</nombre>
+    <rut>763178129</rut>
+    <direccion>ALONSO DE CORDOVA Nº 5151 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>358</identificador>
+    <nombre>SOCIEDAD MPM &#038; PAYASITA MILA SPA</nombre>
+    <rut>763008991</rut>
+    <direccion>AMERICO VESPUCIO SUR Nº 107 202</direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>359</identificador>
+    <nombre>PURPLU  SPA</nombre>
+    <rut>762850079</rut>
+    <direccion>VILLASECA Nº 21 805</direccion>
+    <comuna>ÑUÑOA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>360</identificador>
+    <nombre>LEONARDO RODRIGUEZ S.A.</nombre>
+    <rut>995347601</rut>
+    <direccion>ESTORIL Nº 120 814</direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>361</identificador>
+    <nombre>TRANSPORTES CASEP LIMITADA</nombre>
+    <rut>762387956</rut>
+    <direccion>CORONEL GODOY 1 Nº 164 </direccion>
+    <comuna>ESTACION CENTRAL</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>362</identificador>
+    <nombre>INVERSIONES LA COSECHA LIMITADA</nombre>
+    <rut>762419319</rut>
+    <direccion>AV. LA COSECHA Nº 1160 </direccion>
+    <comuna>COLINA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>363</identificador>
+    <nombre>SOCIEDAD DE TRANSPORTES LUXOR LIMITADA</nombre>
+    <rut>763125645</rut>
+    <direccion>ESCANILLA Nº 2737 </direccion>
+    <comuna>INDEPENDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>364</identificador>
+    <nombre>DR. PATRICIO WELLS LIMITADA</nombre>
+    <rut>760389331</rut>
+    <direccion>LA BELLOTAS Nº 199 73</direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>365</identificador>
+    <nombre>INVERSIONES LA PROVENZA LIMITADA</nombre>
+    <rut>778145200</rut>
+    <direccion>FELIZ DE AMRSTICA Nº 1991 1204</direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>366</identificador>
+    <nombre>JC INGENIEROS LIMITADA</nombre>
+    <rut>763214001</rut>
+    <direccion>ABDON CIFUENTES Nº 259 A</direccion>
+    <comuna>SANTIAGO</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>367</identificador>
+    <nombre>TURISMO QUASAR EXPEDITIONS LIMITADA</nombre>
+    <rut>762575280</rut>
+    <direccion>MIRAFLORES Nº 484 </direccion>
+    <comuna>PUERTO NATALES</comuna>
+    <ciudad>PUERTO NATALES</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>368</identificador>
+    <nombre>GANADERA LAS TABLAS LIMITADA</nombre>
+    <rut>883226003</rut>
+    <direccion>CAMINO A QUINTAY S/N Nº  </direccion>
+    <comuna>VALPARAISO</comuna>
+    <ciudad>VALPARAISO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>369</identificador>
+    <nombre>CRISTIAN RODRIGUEZ ESPINACE EST.SERVICIO E.I.R.L</nombre>
+    <rut>763899721</rut>
+    <direccion>AVENIDA CAMILO HENRIQUEZ Nº 3160 </direccion>
+    <comuna>PUENTE ALTO</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>370</identificador>
+    <nombre>SOCIEDAD AGRICOLA EL QUILLAY LIMIATDA</nombre>
+    <rut>764096983</rut>
+    <direccion>PARCELA Nº 53 </direccion>
+    <comuna>LAS CABRAS</comuna>
+    <ciudad>LAS CABRAS</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>371</identificador>
+    <nombre>MARTA AMENABAR CONFECCIONES E.I.R.L.</nombre>
+    <rut>763882934</rut>
+    <direccion>MANUEL MONTT Nº 37 11</direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>372</identificador>
+    <nombre>SERVICIOS Y ASESORIAS BIRKNER Y COMPAÑIA LIMITADA</nombre>
+    <rut>779760405</rut>
+    <direccion>AV. SANTA MARIA Nº 2670 101</direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>373</identificador>
+    <nombre>ANALITICA ESTEBAN EDUARDO CERDA CANDIA E.I.R.L.</nombre>
+    <rut>763939324</rut>
+    <direccion>DETECTIVE VICENTE BOURQUE Nº 683 </direccion>
+    <comuna>SANTIAGO</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>374</identificador>
+    <nombre>CENTRO CLINICO DE TRATAMIENTO DE LA OBESIDAD LTDA.</nombre>
+    <rut>763774139</rut>
+    <direccion>ESTORIL Nº 120 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>375</identificador>
+    <nombre>BBR SPA</nombre>
+    <rut>764160657</rut>
+    <direccion>ENRIQUE FOSTER SUR Nº 39 P-6</direccion>
+    <comuna>SANTIAGO</comuna>
+    <ciudad>LAS CONDES</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>376</identificador>
+    <nombre>IMPORT.Y DISTRIB.DE INSUMOS MEDICOS ZUBIMED LTDA.</nombre>
+    <rut>77103330K</rut>
+    <direccion>LA FORJA Nº 8770 </direccion>
+    <comuna>LA REINA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>377</identificador>
+    <nombre>TRANSPORTE ZUBITRANS LIMITADA</nombre>
+    <rut>760376043</rut>
+    <direccion>LA FORJA Nº 8770 B</direccion>
+    <comuna>LA REINA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>378</identificador>
+    <nombre>ASESORIAS E INVERSIONES LA CAPELLANIA LIMITADA</nombre>
+    <rut>76257408K</rut>
+    <direccion>LA CAPELLANIA Nº 1217 </direccion>
+    <comuna>LO BARNECHEA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>379</identificador>
+    <nombre>OR SUPPLIES LTDA</nombre>
+    <rut>764381157</rut>
+    <direccion>ARROYO DE LA LUZ Nº 8748 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>380</identificador>
+    <nombre>TECNOIMPORT LIMITADA</nombre>
+    <rut>78411600K</rut>
+    <direccion>COLLAO Nº 3320 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>381</identificador>
+    <nombre>CLINICA ODONTOLOGICA SAN CRESCENTE S.A.</nombre>
+    <rut>798011804</rut>
+    <direccion>CALLAO Nº 3320 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>382</identificador>
+    <nombre>SOC AGRICOLA MUCHAYES LIMITADA</nombre>
+    <rut>772982100</rut>
+    <direccion>CALLAO Nº 3330 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>400</identificador>
+    <nombre>IMAGEMAKER S.A.</nombre>
+    <rut>773724601</rut>
+    <direccion>AV. LA CONCEPCION Nº 141 </direccion>
+    <comuna>PROVIDENCIA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>383</identificador>
+    <nombre>SERGIO GAETE Y COMPAÑIA LIMITADA</nombre>
+    <rut>850702004</rut>
+    <direccion>SANTA ROSA Nº 299 </direccion>
+    <comuna>SANTIAGO</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>384</identificador>
+    <nombre>AUTOMOTRIZ JGC MOTORS LIMITADA</nombre>
+    <rut>768287805</rut>
+    <direccion>HERMANOS CARRERA PINTO Nº 160 </direccion>
+    <comuna>SANTIAGO</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>385</identificador>
+    <nombre>INVERSIONES RODO LIMIATDA</nombre>
+    <rut>764218523</rut>
+    <direccion>ARROYYO DE LA LUZ Nº 8748 </direccion>
+    <comuna>LAS CONDES</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+  <empresa>
+    <identificador>386</identificador>
+    <nombre>INVERSIONES BARLOVENTO LIMITADA</nombre>
+    <rut>764218566</rut>
+    <direccion>PADRE DAMIAN DE VEUSTER Nº 2530 12</direccion>
+    <comuna>VITACURA</comuna>
+    <ciudad>SANTIAGO</ciudad>
+  </empresa>
+</raiz>
